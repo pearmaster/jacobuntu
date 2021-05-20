@@ -62,6 +62,8 @@ RUN apt-get update \
         qml-module-qtquick-dialogs \
         qml-module-qtquick-extras \
         qml-module-qtquick-layouts \
+        qtbase5-dev \
+        qtdeclarative5-dev \
         qt5-default \
         qt5-qmake \
         qtdeclarative5-dev \
