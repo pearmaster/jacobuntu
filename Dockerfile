@@ -29,6 +29,7 @@ RUN apt-get update \
         gdebi-core \
         git-core \
         help2man \
+        joe \
         lib32ncurses5 \
         lib32z1 \
         libboost-all-dev \
