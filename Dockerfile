@@ -48,6 +48,7 @@ RUN apt-get update \
         libssl-dev \
         libtool \
         libupnp-dev \
+        libxcb-xinerama0-dev \
         lzop \
         make \
         mercurial \
